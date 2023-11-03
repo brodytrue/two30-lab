@@ -28,6 +28,16 @@
   color: #61dafb;
 }
 
+.Home {
+  margin-top: 20px;
+}
+
+.ContactForm {
+  margin: auto;
+  margin-top: 20px;
+  width: 60%;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -40,24 +50,27 @@
 #card-holder {
   display: flex;
   justify-content: center;
- }
+}
 
 #card01 {
-  background-color: blue;
-  color: white;
+  background-color: white;
+  color: darkslategray;
   width: 20%;
+  margin-top: 20px;
 }
 
 #card02 {
-  background-color: red;
-  color: white;
+  background-color: white;
+  color: darkslategray;
   width: 20%;
   margin-left: 15px;
   margin-right: 15px;
+  margin-top: 20px;
 }
 
 #card03 {
-  background-color: green;
-  color: white;
+  background-color: white;
+  color: darkslategray;
   width: 20%;
+  margin-top: 20px;
 }
